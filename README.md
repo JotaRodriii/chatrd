@@ -25,7 +25,7 @@ Make sure your **Twitch** and **YouTube** accounts are connected on **Streamer.B
 2. Import the string inside the file [streamerbot-import.vortisrd](https://github.com/vortisrd/chatrd/blob/main/streamerbot-import.vortisrd) to your **Streamer.Bot** using the **Import** button at the top.
 3. Go to **Server/Clients → WebSocket Client** and make sure the *TikFinity* WebSocket is connected. If not, right-click on it and check *Auto-Connect* and *Reconnect* before clicking on *Connect*. 
 4. Download [**TikFinity Desktop App**](https://tikfinity.zerody.one/) and make sure it's is opened and connected to your TikTok Account.
-5. Open the [Settings Page](https://vortisrd.github.io/chatrd) in your browser.
+5. Open the [Settings Page](https://JotaRodriii.github.io/chatrd) in your browser.
 6. Choose your desired options.
 7. Click **"Copy URL"**.
 8. Add the copied URL as a Browser Source in OBS. Or use it in your browser to read chat. 😊
