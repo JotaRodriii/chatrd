@@ -10,7 +10,7 @@ Make sure your **Twitch**, **YouTube** and **Kick** accounts are connected on **
 
 If you have both of these ready, follow these steps:
 
-1. On **Streamer.bot**, import the file [ChatJR.sb](https://github.com/JotaRodriii/ChatRD/blob/main/ChatRD.sb) to your **Streamer.bot**.
+1. On **Streamer.bot**, import the file [ChatJR.sb](https://github.com/JotaRodriii/chatrd/blob/main/chatrd.sb) to your **Streamer.bot**.
 2. Go to **Server/Clients → WebSocket Server** and make sure it is running.
 5. Open the [Settings Page](https://JotaRodriii.github.io/ChatRD) in your browser.
 6. Choose your desired options.
