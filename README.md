@@ -124,4 +124,4 @@ R: Si te refieres a los estilos visuales, puedes añadir los tuyos propios utili
 
 Creado con ❤️ por **JotaRodriii**  
 
-🔗 [GitHub](https://github.com/JotaRodriii) • [Twitch](https://twitch.tv/JotaRodriii) • [YouTube](https://youtube.com/@JotaRodriii) • [Kick](https://kick.com/JotaRodriii) • [TikTok](https://tiktok.com/@JotaRodriii) • [Twitter / X](https://twitter.com/JotaRodriii)  
+🔗 [Twitch](https://twitch.tv/JotaRodriii) • [YouTube](https://youtube.com/@JotaRodriii) • [Kick](https://kick.com/JotaRodriii) • [TikTok](https://tiktok.com/@JotaRodriii) • [Twitter / X](https://twitter.com/JotaRodriii)  
