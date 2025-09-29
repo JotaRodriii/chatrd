@@ -1,8 +1,8 @@
-# ![ChatRD](https://i.imgur.com/Ifpd7Ay.png)
+# ![ChatJR](https://i.imgur.com/Ifpd7Ay.png)
 
-ChatRD is a chat tool and/or overlay widget that unifies messages and events from **Twitch**, **YouTube**, **TikTok**, **Kick**, **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** and **Fourthwall**.
+ChatJR es una herramienta de chat y/o widget superpuesto que unifica mensajes y eventos de **Twitch**, **YouTube**, **TikTok**, **Kick**, **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** y **Fourthwall**.
 
-![ChatRD Config UI](https://i.imgur.com/ezrWaI2.png)
+![ChatJR Config UI](https://i.imgur.com/ezrWaI2.png)
 
 ## 🛠️ Setting it up
 
@@ -10,13 +10,13 @@ Make sure your **Twitch**, **YouTube** and **Kick** accounts are connected on **
 
 If you have both of these ready, follow these steps:
 
-1. On **Streamer.bot**, import the file [chatrd.sb](https://github.com/JotaRodriii/chatrd/blob/main/chatrd.sb) to your **Streamer.bot**.
+1. On **Streamer.bot**, import the file [ChatJR.sb](https://github.com/JotaRodriii/ChatRD/blob/main/ChatRD.sb) to your **Streamer.bot**.
 2. Go to **Server/Clients → WebSocket Server** and make sure it is running.
-5. Open the [Settings Page](https://JotaRodriii.github.io/chatrd) in your browser.
+5. Open the [Settings Page](https://JotaRodriii.github.io/ChatRD) in your browser.
 6. Choose your desired options.
 7. Click **"Copy URL"**.
 8. Add the copied URL as a Browser Source in OBS. Or use it in your browser to read chat. 😊
-9. For **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** and **Fourthwall**, you need to connect them to your Streamer.Bot account to their website. Follow the tutorial links in each section presented in the [Settings Page](https://JotaRodriii.github.io/chatrd).
+9. For **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** and **Fourthwall**, you need to connect them to your Streamer.Bot account to their website. Follow the tutorial links in each section presented in the [Settings Page](https://JotaRodriii.github.io/ChatRD).
 
 ---
 
@@ -124,6 +124,6 @@ R: If you mean visual styles, you can add your own using the *Custom CSS* field 
 
 ## ✨ Credits
 
-Made with ❤️ by **JotaRodriii**  
+Creado con ❤️ por **JotaRodriii**  
 
 🔗 [GitHub](https://github.com/JotaRodriii) • [Twitch](https://twitch.tv/JotaRodriii) • [YouTube](https://youtube.com/@JotaRodriii) • [Kick](https://kick.com/JotaRodriii) • [TikTok](https://tiktok.com/@JotaRodriii) • [Twitter / X](https://twitter.com/JotaRodriii)  
