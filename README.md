@@ -103,8 +103,6 @@ R: Sí, puedes. Puedes abrirlo en tu navegador, utilizarlo como superposición d
 **- ¿Qué pasa con los emoticonos de los miembros de YouTube?**
 R: YouTube no expone sus emojis de membresía/socios a Streamer.bot. Tendrías que añadirlos manualmente en la sección «Emoticonos solo para miembros» de ChatRD.
 
-Lo que hacen Casterlabs Caffeinated, Social Stream Ninja y Onecomme para extraer los emoticonos no funciona con la forma actual en que Streamer. Bot y mi código, así que tuve que elegir entre **hacer que el usuario los añadiera manualmente** o crear un **ejecutable del lado del servidor (utilizando NodeJS, Python o lo que sea) para leer el chat a medida que avanza o extraer el código HTML**. No quiero añadir otro ejecutable al flujo del usuario, por lo que sería más fácil utilizar lo que hay disponible actualmente. ** Y no, no voy a investigar qué hacen otras herramientas.**
-
 **- ¿Puedo configurar TTS para que solo lea los eventos que yo quiera?**
 R: No. ChatRD envía chats, eventos o ambos a Speaker.bot.
 
