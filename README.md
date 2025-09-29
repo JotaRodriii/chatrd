@@ -12,11 +12,11 @@ If you have both of these ready, follow these steps:
 
 1. En **Streamer.bot**, importa el archivo [ChatJR.sb](https://github.com/JotaRodriii/chatrd/blob/main/chatrd.sb) a tu **Streamer.bot**.
 2. Ve a **Servidor/Clientes → Servidor WebSocket** y asegúrate de que está en funcionamiento.
-5. Abre la [página de configuración](https://JotaRodriii.github.io/ChatRD) en tu navegador.
+5. Abre la [página de configuración](https://JotaRodriii.github.io/chatrd) en tu navegador.
 6. Elige las opciones que desees.
 7. Haz clic en **«Copiar URL»**.
 8. Añade la URL copiada como fuente del navegador en OBS. O utilízala en tu navegador para leer el chat. 😊
-9. Para **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** y **Fourthwall**, debes conectarlos a tu cuenta de Streamer.Bot en su sitio web. Sigue los enlaces del tutorial en cada sección que se presenta en la [página de configuración](https://JotaRodriii.github.io/ChatRD).
+9. Para **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** y **Fourthwall**, debes conectarlos a tu cuenta de Streamer.Bot en su sitio web. Sigue los enlaces del tutorial en cada sección que se presenta en la [página de configuración](https://JotaRodriii.github.io/chatrd).
 
 ---
 
