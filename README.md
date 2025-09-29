@@ -12,7 +12,7 @@ If you have both of these ready, follow these steps:
 
 1. On **Streamer.bot**, import the file [chatrd.sb](https://github.com/vortisrd/chatrd/blob/main/chatrd.sb) to your **Streamer.bot**.
 2. Go to **Server/Clients → WebSocket Server** and make sure it is running.
-5. Open the [Settings Page](https://vortisrd.github.io/chatrd) in your browser.
+5. Open the [Settings Page](https://JotaRodriii.github.io/chatrd) in your browser.
 6. Choose your desired options.
 7. Click **"Copy URL"**.
 8. Add the copied URL as a Browser Source in OBS. Or use it in your browser to read chat. 😊
