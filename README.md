@@ -10,13 +10,13 @@ Make sure your **Twitch**, **YouTube** and **Kick** accounts are connected on **
 
 If you have both of these ready, follow these steps:
 
-1. On **Streamer.bot**, import the file [chatrd.sb](https://github.com/vortisrd/chatrd/blob/main/chatrd.sb) to your **Streamer.bot**.
+1. On **Streamer.bot**, import the file [chatrd.sb](https://github.com/JotaRodriii/chatrd/blob/main/chatrd.sb) to your **Streamer.bot**.
 2. Go to **Server/Clients → WebSocket Server** and make sure it is running.
 5. Open the [Settings Page](https://JotaRodriii.github.io/chatrd) in your browser.
 6. Choose your desired options.
 7. Click **"Copy URL"**.
 8. Add the copied URL as a Browser Source in OBS. Or use it in your browser to read chat. 😊
-9. For **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** and **Fourthwall**, you need to connect them to your Streamer.Bot account to their website. Follow the tutorial links in each section presented in the [Settings Page](https://vortisrd.github.io/chatrd).
+9. For **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** and **Fourthwall**, you need to connect them to your Streamer.Bot account to their website. Follow the tutorial links in each section presented in the [Settings Page](https://JotaRodriii.github.io/chatrd).
 
 ---
 
@@ -124,10 +124,6 @@ R: If you mean visual styles, you can add your own using the *Custom CSS* field 
 
 ## ✨ Credits
 
-Made with ❤️ by **VortisRD**  
+Made with ❤️ by **JotaRodriii**  
 
-🔗 [GitHub](https://github.com/vortisrd) • [Twitch](https://twitch.tv/vortisrd) • [YouTube](https://youtube.com/@vortisrd) • [Kick](https://kick.com/vortisrd) • [TikTok](https://tiktok.com/@vortisrd) • [Twitter / X](https://twitter.com/vortisrd)  
-
-Heavily inspired by [Nutty](https://nutty.gg). *Seriously, go give him some money!*
-
-🔗 [GitHub](https://github.com/nuttylmao) • [Twitch](https://twitch.tv/nutty) • [YouTube](https://youtube.com/@nuttylmao) • [Kick](https://kick.com/nutty) • [TikTok](https://tiktok.com/@nuttylmao) • [Twitter / X](https://x.com/nuttylmao)
+🔗 [GitHub](https://github.com/JotaRodriii) • [Twitch](https://twitch.tv/JotaRodriii) • [YouTube](https://youtube.com/@JotaRodriii) • [Kick](https://kick.com/JotaRodriii) • [TikTok](https://tiktok.com/@JotaRodriii) • [Twitter / X](https://twitter.com/JotaRodriii)  
