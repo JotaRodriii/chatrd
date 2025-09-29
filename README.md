@@ -113,7 +113,7 @@ R: Asegúrate de que tu TikFinity está conectado a tu cuenta y de que estás en
 R: La API de Kick es muy lenta en horas punta. Se ha informado en [Streamer.bot](https://discord.streamer.bot/) Discord (consulte la sección html-css-js) que, en ocasiones, las respuestas pueden tardar hasta 60 segundos en transmitirse. Espero que en el futuro inviertan más dinero en sus servidores.
 
 **- ¿Se pueden añadir otras plataformas de streaming/pago?**
-R: ChatRD utiliza Streamer.Bot en el 95 % de todas las iteraciones de la plataforma. *TikFinity* está perfectamente integrado a través de WebSockets. Por lo tanto, si la plataforma tiene alguna integración con Streamer.bot o tiene una API WebSocket decente (no WebHooks), no dudes en sugerirlo. Aparte de eso, no hay planes de añadir más plataformas.
+R: ChatJR utiliza Streamer.Bot en el 95 % de todas las iteraciones de la plataforma. *TikFinity* está perfectamente integrado a través de WebSockets. Por lo tanto, si la plataforma tiene alguna integración con Streamer.bot o tiene una API WebSocket decente (no WebHooks), no dudes en sugerirlo. Aparte de eso, no hay planes de añadir más plataformas.
 
 **- ¿Puedo personalizarlo?**
 R: Si te refieres a los estilos visuales, puedes añadir los tuyos propios utilizando el campo *Custom CSS* en la ventana Browser Source Properties de OBS. Puedes utilizar las herramientas de desarrollo de tu navegador para inspeccionar los elementos que deseas cambiar. **No proporcionaré asistencia si tienes pensado personalizar códigos que podrían dañar ChatRD**.
