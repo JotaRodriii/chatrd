@@ -4,125 +4,125 @@ ChatJR es una herramienta de chat y/o widget superpuesto que unifica mensajes y 
 
 ![ChatJR Config UI](https://i.imgur.com/ezrWaI2.png)
 
-## 🛠️ Setting it up
+## 🛠️ Configuración
 
-Make sure your **Twitch**, **YouTube** and **Kick** accounts are connected on **Streamer.bot**. Also have **TikFinity Desktop App** installed and your account on **TikTok** setup. **BOTH APPS NEED TO RUN ON THE SAME PC**.
+Asegúrate de que tus cuentas de **Twitch**, **YouTube** y **Kick** estén conectadas en **Streamer.bot**. También debes tener instalada la **aplicación de escritorio TikFinity** y tu cuenta en **TikTok** configurada. **AMBAS APLICACIONES DEBEN EJECUTARSE EN EL MISMO ORDENADOR**.
 
 If you have both of these ready, follow these steps:
 
-1. On **Streamer.bot**, import the file [ChatJR.sb](https://github.com/JotaRodriii/chatrd/blob/main/chatrd.sb) to your **Streamer.bot**.
-2. Go to **Server/Clients → WebSocket Server** and make sure it is running.
-5. Open the [Settings Page](https://JotaRodriii.github.io/ChatRD) in your browser.
-6. Choose your desired options.
-7. Click **"Copy URL"**.
-8. Add the copied URL as a Browser Source in OBS. Or use it in your browser to read chat. 😊
-9. For **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** and **Fourthwall**, you need to connect them to your Streamer.Bot account to their website. Follow the tutorial links in each section presented in the [Settings Page](https://JotaRodriii.github.io/ChatRD).
+1. En **Streamer.bot**, importa el archivo [ChatJR.sb](https://github.com/JotaRodriii/chatrd/blob/main/chatrd.sb) a tu **Streamer.bot**.
+2. Ve a **Servidor/Clientes → Servidor WebSocket** y asegúrate de que está en funcionamiento.
+5. Abre la [página de configuración](https://JotaRodriii.github.io/ChatRD) en tu navegador.
+6. Elige las opciones que desees.
+7. Haz clic en **«Copiar URL»**.
+8. Añade la URL copiada como fuente del navegador en OBS. O utilízala en tu navegador para leer el chat. 😊
+9. Para **Streamlabs**, **StreamElements**, **Patreon**, **TipeeeStream**, **Ko-Fi** y **Fourthwall**, debes conectarlos a tu cuenta de Streamer.Bot en su sitio web. Sigue los enlaces del tutorial en cada sección que se presenta en la [página de configuración](https://JotaRodriii.github.io/ChatRD).
 
 ---
 
-## 🔊 Setting TTS with Speaker.Bot
+## 🔊 Configuración de TTS con Speaker.Bot
 
-1. Go to **Settings → WebSocket Server**, click on *Start Server*. Make sure to also tick the *Auto-Start* checkbox.
-2. Copy the IP and Port to ChatRD Speaker.bot fields.
-3. Go  to **Settings → Speech Engine** and add the TTS Service of your preference. (Sapi5 is the Windows default).
-4. Go to **Settings → Voice Aliases**, give it a name and click **Add** right next to it.
-5. In the Left Column, click on the **SpeakerBot** you just added and on the **Speak!** section, select the voice you want to use and click **Add**. (If you're using Sapi5, I recommend using *Microsoft Zira Desktop* as a voice).
-6. Add the Alias name under the *Voice Alias* field on ChatRD.
-
----
-
-## 💬 Sending Messages to TikTok
-To send messages to **TikTok** using the *Chat Field*, you need to the following on **TikFinity**:
-
-1. Make sure you're connected to your TikTok Account on **TikFinity**. If you're not, go to **Setup → TikTok Login** and click on *Login to TikTok*.
-2. Go to **Setup → Streamer.Bot Connection** and type the IP and the PORT you're using on your **Streamer.Bot** and then click on *Test Connection*.
-
-![TikFinity Setup → Streamer.Bot Connection](https://i.imgur.com/h0QDnNX.png)
-
-3. Go to **Chatbot → Streamer.Bot Messages** and enable *Allow Streamer.Bot to push messages to TikFinity*. 
-
-![Chatbot → Streamer.Bot Messages](https://i.imgur.com/IGQ5xQq.png)
+1. Vaya a **Configuración → Servidor WebSocket** y haga clic en *Iniciar servidor*. Asegúrese de marcar también la casilla *Inicio automático*.
+2. Copie la IP y el puerto en los campos de ChatRD Speaker.bot.
+3. Vaya a **Configuración → Motor de voz** y añada el servicio TTS que prefiera. (Sapi5 es el predeterminado de Windows).
+4. Vaya a **Configuración → Alias de voz**, asígnele un nombre y haga clic en **Añadir** justo al lado.
+5. En la columna izquierda, haga clic en el **SpeakerBot** que acaba de añadir y, en la sección **¡Hablar!**, seleccione la voz que desea utilizar y haga clic en **Añadir**. (Si utiliza Sapi5, le recomiendo utilizar *Microsoft Zira Desktop* como voz).
+6. Añada el nombre del alias en el campo *Alias de voz* de ChatRD.
 
 ---
 
-## 💻 Commands supported by the Chat Field
+## 💬 Enviar mensajes a TikTok
+Para enviar mensajes a **TikTok** utilizando el *campo de chat*, debes hacer lo siguiente en **TikFinity**:
 
-**Commands for Twitch**
-- /me (message)
+1. Asegúrate de que estás conectado a tu cuenta de TikTok en **TikFinity**. Si no es así, ve a **Configuración → Inicio de sesión en TikTok** y haz clic en *Iniciar sesión en TikTok*.
+2. Ve a **Configuración → Conexión Streamer.Bot** y escribe la IP y el PUERTO que estás utilizando en tu **Streamer.Bot** y, a continuación, haz clic en *Probar conexión*.
+
+![Configuración de TikFinity → Conexión Streamer.Bot](https://i.imgur.com/h0QDnNX.png)
+
+3. Ve a **Chatbot → Mensajes de Streamer.Bot** y activa *Permitir que Streamer.Bot envíe mensajes a TikFinity*. 
+
+![Chatbot → Mensajes de Streamer.Bot](https://i.imgur.com/IGQ5xQq.png)
+
+---
+
+## 💻 Comandos compatibles con el campo de chat
+
+**Comandos para Twitch**
+- /me (mensaje)
 - /clip
-- /announce (message)
-- /announceblue (message)
-- /announcegreen (message)
-- /announceorange (message)
-- /announcepurple (message)
+- /announce (mensaje)
+- /announceblue (mensaje)
+- /announcegreen (mensaje)
+- /announceorange (mensaje)
+- /announcepurple (mensaje)
 - /clear
-- /slow (duration in seconds)
+- /slow (duración en segundos)
 - /slowoff
 - /emoteonly
 - /emoteonlyoff
 - /subscribers
 - /subscribersoff
-- /commercial (duration in seconds)
-- /timeout (user) (duration) (reason)
-- /untimeout (user)
-- /ban (user) (reason)
-- /unban (user)
-- /mod (user)
-- /unmod (user)
-- /vip (user)
-- /unvip (user)
-- /shoutout (user)
-- /raid (user)
+- /commercial (duración en segundos)
+- /timeout (usuario) (duración) (motivo)
+- /untimeout (usuario)
+- /ban (usuario) (motivo)
+- /unban (usuario)
+- /mod (usuario)
+- /unmod (usuario)
+- /vip (usuario)
+- /unvip (usuario)
+- /shoutout (usuario)
+- /raid (usuario)
 - /unraid
-- /settitle (stream title)
-- /setgame (game name)
+- /settitle (título de la transmisión)
+- /setgame (nombre del juego)
 
-**Commands for YouTube**
-- /yt/title (stream title)
-- /yt/timeout (userID) (duration in seconds)
-- /yt/ban (userID)
+**Comandos para YouTube**
+- /yt/title (título de la transmisión)
+- /yt/timeout (ID de usuario) (duración en segundos)
+- /yt/ban (ID de usuario)
 
-**Commands for Kick**
-- /kick/title (stream title)
-- /kick/category (stream category title)
-- /kick/timeout (user) (duration in seconds)
-- /kick/untimeout (user)
-- /kick/ban (user) (reason)
-- /kick/unban (user)
+**Comandos para expulsar**
+- /kick/title (título de la transmisión)
+- /kick/category (título de la categoría de la transmisión)
+- /kick/timeout (usuario) (duración en segundos)
+- /kick/untimeout (usuario)
+- /kick/ban (usuario) (motivo)
+- /kick/unban (usuario)
 
 **TikTok**
-- TikTok commands are not supported.
+- Los comandos de TikTok no son compatibles.
 
 
 ---
 
-## ❓ Frequently Asked Questions
-**- Can I use it to read my chat?**
-R: Yes you can. You can open it on your browser, use it as a chat overlay and/or use it as a dock in OBS.
+## ❓ Preguntas frecuentes
+**- ¿Puedo utilizarlo para leer mi chat?**
+R: Sí, puedes. Puedes abrirlo en tu navegador, utilizarlo como superposición de chat y/o utilizarlo como dock en OBS.
 
-**- What about YouTube Members Emotes?**
-R: YouTube doesn't expose their Membership/Partner Emojis to Streamer.bot. You would have to add them manually on ChatRD's Members Only Emotes section.
+**- ¿Qué pasa con los emoticonos de los miembros de YouTube?**
+R: YouTube no expone sus emojis de membresía/socios a Streamer.bot. Tendrías que añadirlos manualmente en la sección «Emoticonos solo para miembros» de ChatRD.
 
-What Casterlabs Caffeinated, Social Stream Ninja and Onecomme do to scrape the emotes won't work with the current way Streamer.Bot and my code works, so I had to choose between **making the user add them manually** or build a **server-sided executable (using NodeJS, Python or whatever) to read the chat as it's going or scrape the HTML code**. I don't want to add another executable on top of the user's flow, so it would be easier to use what it's currently available. **And no, I won't do any research based on what other tools do.**
+Lo que hacen Casterlabs Caffeinated, Social Stream Ninja y Onecomme para extraer los emoticonos no funciona con la forma actual en que Streamer. Bot y mi código, así que tuve que elegir entre **hacer que el usuario los añadiera manualmente** o crear un **ejecutable del lado del servidor (utilizando NodeJS, Python o lo que sea) para leer el chat a medida que avanza o extraer el código HTML**. No quiero añadir otro ejecutable al flujo del usuario, por lo que sería más fácil utilizar lo que hay disponible actualmente. ** Y no, no voy a investigar qué hacen otras herramientas.**
 
-**- Can I set TTS to read only the events I want to read?**
-R: No. ChatRD sends either chats, events or both to Speaker.bot.
+**- ¿Puedo configurar TTS para que solo lea los eventos que yo quiera?**
+R: No. ChatRD envía chats, eventos o ambos a Speaker.bot.
 
-**- TikTok events are not working anymore, what should I do?**
-R: Make sure your TikFinity is connected to your account and you are live.
+**- Los eventos de TikTok ya no funcionan, ¿qué debo hacer?**
+R: Asegúrate de que tu TikFinity está conectado a tu cuenta y de que estás en directo.
 
-**- Kick events are not working or are taking too much time to show, what should I do?**
-R: Kick's API is notoriously slow on their peak usage. It's been reported on [Streamer.bot](https://discord.streamer.bot/) Discord (check html-css-js section) that sometimes it could take up to 60 seconds for the responses to be relayed. I hope in the future they throw more money into their servers.
+**- Los eventos Kick no funcionan o tardan demasiado en aparecer, ¿qué debo hacer?**
+R: La API de Kick es muy lenta en horas punta. Se ha informado en [Streamer.bot](https://discord.streamer.bot/) Discord (consulte la sección html-css-js) que, en ocasiones, las respuestas pueden tardar hasta 60 segundos en transmitirse. Espero que en el futuro inviertan más dinero en sus servidores.
 
-**- Can you add other streaming/payment platforms?**
-R: ChatRD uses Streamer.Bot to 95% of all platform iterations. *TikFinity* is perfectly integrated via WebSockets. So if the platform has any integration with Streamer.bot or has a decent WebSocket API (not WebHooks), feel free to suggest it. Other than that, there are no plans to add more platforms.
+**- ¿Se pueden añadir otras plataformas de streaming/pago?**
+R: ChatRD utiliza Streamer.Bot en el 95 % de todas las iteraciones de la plataforma. *TikFinity* está perfectamente integrado a través de WebSockets. Por lo tanto, si la plataforma tiene alguna integración con Streamer.bot o tiene una API WebSocket decente (no WebHooks), no dudes en sugerirlo. Aparte de eso, no hay planes de añadir más plataformas.
 
-**- Can I customize it?**
-R: If you mean visual styles, you can add your own using the *Custom CSS* field in OBS's Browser Source Properties Window. You can use your browser Dev Tools to inspect the elements you want to change. **I won't provide support if you're planning to customize codes that could break ChatRD**.
+**- ¿Puedo personalizarlo?**
+R: Si te refieres a los estilos visuales, puedes añadir los tuyos propios utilizando el campo *Custom CSS* en la ventana Browser Source Properties de OBS. Puedes utilizar las herramientas de desarrollo de tu navegador para inspeccionar los elementos que deseas cambiar. **No proporcionaré asistencia si tienes pensado personalizar códigos que podrían dañar ChatRD**.
 
 ---
 
-## ✨ Credits
+## ✨ Créditos
 
 Creado con ❤️ por **JotaRodriii**  
 
